@@ -1,3 +1,7 @@
+## ignore changes to tracked files
+##git update-index --assume-unchanged setup
+##git update-index --assume-unchanged replay.txt
+
 # Logs
 logs
 *.log
