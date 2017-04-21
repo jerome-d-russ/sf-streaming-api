@@ -1,0 +1,2 @@
+process.env.USER = 'test@test.com';
+process.env.PASSWORD = 'passwordsecuritytoken';
